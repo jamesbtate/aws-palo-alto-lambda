@@ -1,0 +1,3 @@
+Configuration
+Copy sample.ini to config.ini. Set values appropriately.
+sample.ini is the only .ini file allowed in version control.
